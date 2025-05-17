@@ -34,7 +34,7 @@ const upcomingEvents = [
         id: 1,
         title: "Annual Championship",
         date: "2023-11-15",
-        location: "Main Range",
+        location: "Main Range",1
     },
     {
         id: 2,
